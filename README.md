@@ -18,3 +18,8 @@ React Native challenge list for freeCodeCamp.
 1. Networking with Websockets
 
 Tutorials for how to start running and building locally...
+
+## Some Links:
+
+* Testing with Enzyme - [Enzyme Docs](http://airbnb.io/enzyme/docs/guides/react-native.html)
+* [React Native Docs Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
