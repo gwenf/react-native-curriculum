@@ -1,4 +1,6 @@
 # react-native-curriculum
+[link to freeCodeCamp issue where this curriculum is being discussed](https://github.com/freeCodeCamp/freeCodeCamp/issues/14595)
+
 React Native challenge list for freeCodeCamp.
 
 1. Hello World
