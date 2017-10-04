@@ -16,7 +16,7 @@ React Native challenge list for freeCodeCamp.
 1. ListView (2 challenges)
 1. Networking with Fetch (1-2 challenges)
 1. Networking with Websockets
-1. navigator.geolocation API
+1. Navigator.geolocation API
 1. react-native link
 
 Tutorials for how to start running and building locally...
