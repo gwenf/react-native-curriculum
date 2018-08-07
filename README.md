@@ -19,6 +19,8 @@ React Native challenge list for freeCodeCamp.
 1. Navigator.geolocation API
 1. react-native link
 
+*TODO: include challenges for how to test RN mobile apps as well*
+
 Tutorials for how to start running and building locally...
 
 ## Related Libraries:
@@ -31,7 +33,9 @@ Tutorials for how to start running and building locally...
 
 1. [Expo Web](https://snack.expo.io/)
 
+*Should we talk about create-react-native-app and expo desktop as well?*
+
 ## Some Links:
 
-* Testing with Enzyme - [Enzyme Docs](http://airbnb.io/enzyme/docs/guides/react-native.html)
+* Testing with Enzyme & Jest - [Enzyme Docs](http://airbnb.io/enzyme/docs/guides/react-native.html)
 * [React Native Docs Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
