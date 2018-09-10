@@ -13,7 +13,8 @@ React Native challenge list for freeCodeCamp.
 1. Input Fields - Text
 1. Touchables (2-3 challenges)
 1. ScrollView
-1. ListView (2 challenges)
+1. FlatList
+1. SectionList
 1. Networking with Fetch (1-2 challenges)
 1. Networking with Websockets
 1. Navigator.geolocation API
