@@ -5,14 +5,15 @@ React Native challenge list for freeCodeCamp.
 
 1. Hello World
 1. `View` and `Text`
+1. Input Fields - Text
 1. Class Components
 1. State
 1. Props (2 challenges)
 1. Styling (2 challenges - 1 for inline and one for separate styles object)
 1. Layouts with Flexbox (3 challenges)
 1. Dimensions (2 challenges)
-1. Input Fields - Text
 1. Touchables (2-3 challenges)
+1. Form Submission
 1. ScrollView
 1. FlatList
 1. SectionList
