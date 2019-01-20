@@ -22,6 +22,8 @@ React Native challenge list for freeCodeCamp.
 1. Networking with Fetch (1-2 challenges)
 1. Networking with Websockets
 1. Navigator.geolocation API
+1. Building Locally with Expo
+1. Building Locally with react-native init
 1. react-native link
 
 *TODO: include challenges for how to test RN mobile apps as well*
